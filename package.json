@@ -7,9 +7,12 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "test": "jest"
   },
   "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-playwright-preset": "^1.5.1",
     "playwright": "^1.9.2",
     "vitepress": "^0.12.2"
   }
