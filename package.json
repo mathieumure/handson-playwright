@@ -10,6 +10,7 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "playwright": "^1.9.2",
     "vitepress": "^0.12.2"
   }
 }
