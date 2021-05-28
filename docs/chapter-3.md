@@ -26,7 +26,7 @@
 
 - Attendre que le `h1` avec le texte `Selectors` soit visible.
 
-- Vérifier avec [assert](https://nodejs.org/api/assert.html#assert_assert_value_message) que l'URL de la page soit égale à `https://playwright.dev/docs/api/class-selectors`.
+- Vérifier avec [assert](https://nodejs.org/api/assert.html#assert_assert_value_message) que l'URL de la page est égale à `https://playwright.dev/docs/api/class-selectors?_highlight=selector`.
 
 - Faire un screenshot de la page dans `screenshots/selectors.png`.
 
