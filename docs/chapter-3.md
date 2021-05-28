@@ -6,7 +6,7 @@
 
 > ℹ️ Playwright a un système d'attente assez développé pour la [disponibilité d'un élement](https://playwright.dev/docs/actionability) mais il dispose également d'API pour attendre [certains états](https://playwright.dev/docs/api/class-page?_highlight=waitforlo#pagewaitforloadstatestate-options)
 
-- Cliquer sur le bouton contenant le texte `Getting started` et attendre une navigation en même temps avec `Promise.all`.
+- Cliquer sur le lien contenant le texte `Get started` et attendre une navigation en même temps avec `Promise.all`.
 
 > ℹ️ Playwright dispose de [sélecteurs très puissants](https://playwright.dev/docs/selectors)
 
